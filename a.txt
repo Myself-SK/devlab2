@@ -1,7 +1,4 @@
 hello
 hi
-<<<<<<< HEAD
 bye
-=======
-hello
->>>>>>> new
+
